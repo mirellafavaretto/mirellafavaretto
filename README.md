@@ -7,4 +7,4 @@ Curso Análise e Desenvolvimento de Sistemas, tenho experiência como Analista d
 
 - ⚡ Apaixonada por tecnologia
 - 🌱 Conhecimento em Cypress, MySQL, Git, APIRest, Metodologias Ágeis
-- 👯 Buscando uma oportunidade de estágio ou uma oportunidade Junior na área de QA/Testes 
+- 👯 Estagiária de QA na IBM
