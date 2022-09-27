@@ -1,4 +1,4 @@
-### Olá, pessoal 👋 
+### Olá 👋 
 
 Sou a Mirella :smile_cat:
 
