@@ -1,6 +1,6 @@
-### Olá 👋 
+### Olá 
 
-Sou a Mirella :smile_cat:
+Sou a Mirella
 
 - Estagiária de QA na **IBM**
 
